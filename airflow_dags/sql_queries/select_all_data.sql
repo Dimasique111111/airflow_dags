@@ -1,0 +1,1 @@
+select * from pet_project_rate_values

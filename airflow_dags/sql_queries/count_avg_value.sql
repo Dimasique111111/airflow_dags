@@ -1,0 +1,1 @@
+select avg(rate) from pet_project_rate_values
